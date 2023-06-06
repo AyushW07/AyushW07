@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush 👋
+# Hi there, I'm Ayush 👋
 
 Passionate React Developer | Frontend Enthusiast | Lifelong Learner
 

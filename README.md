@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 
-Passionate React Developer | Frontend Enthusiast | Lifelong Learner
+## Passionate React Developer | Frontend Enthusiast | Lifelong Learner
 
 Welcome to my GitHub profile! I'm a frontend developer with a strong focus on React and creating delightful user experiences. I'm always excited to explore new technologies and collaborate on innovative projects.
 

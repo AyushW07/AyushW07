@@ -18,6 +18,6 @@ Welcome to my GitHub profile! I'm a frontend developer with a strong focus on Re
 
 ## 📫 Connect with me on:
 
-<a href="https://www.linkedin.com/in/ayush-wasnik-62304a215"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ayushwasnik999@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/ayushwasnik07"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ayushwasnik999@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 Feel free to reach out if you have any project ideas, or just want to say hello! Let's connect and build something amazing together!

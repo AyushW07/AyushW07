@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a frontend developer with a strong focus on Re
 
 ## 🔭 Skills
 
-- Frontend Development: HTML, CSS, JavaScript
+- Frontend Development: HTML, CSS, JavaScript, TypeScript
 - Frameworks/Libraries: React, Redux, Recoil, AngularJS, Bootstrap, Material UI
 - Version Control: Git, GitHub
 
